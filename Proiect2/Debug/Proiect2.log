@@ -1,0 +1,78 @@
+﻿  D:freeglut.dll
+  D:glew32.dll
+  D:glew32s.dll
+  3 File(s) copied
+  D:glfw3.dll
+  D:glfw3dll.dll
+  D:glfw3_mt.dll
+  3 File(s) copied
+  D:SOIL.dll
+  1 File(s) copied
+  main.cpp
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(22,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(31,38): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(34,44): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(35,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(36,44): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(40,24): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(41,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(49,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(86,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(87,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(88,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(91,44): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(101,43): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(105,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(119,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(123,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(127,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(131,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(138,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(142,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(146,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(157,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(168,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(172,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(179,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(183,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(200,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(201,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(202,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(205,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(224,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(229,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(257,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(283,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(284,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(285,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(288,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(317,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(318,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(319,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(333,42): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(344,48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(354,48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(358,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(364,48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(406,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(408,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(410,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(412,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(414,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(416,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(418,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(420,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(425,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(427,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(429,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(431,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(433,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(435,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(437,14): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(498,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(505,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(510,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Files\University\ANUL3_S2\Grafica\Proiect2\Proiect2\main.cpp(513,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Proiect2.vcxproj -> D:\Files\University\ANUL3_S2\Grafica\Proiect2\Debug\Proiect2.exe
+  0 File(s) copied
+  0 File(s) copied
