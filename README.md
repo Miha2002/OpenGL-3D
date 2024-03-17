@@ -1,4 +1,5 @@
-# OpenGL-3D
+# OpenGL - FlappyBird, but 3D
+### Not fully functional
 
 Am încercat să recreăm scena cu Flappy Bird din 2D în 3D. Pasărea noastră se poate deplasa pe sus/jos și stânga/dreapta, iar observatorul se poate plimba prin scenă folosind WASD pentru mișcare și Q,E pentru direcție.
 Am implementat ceață pentru a face scena mai interesantă și pentru a amplifica distanța față de clădirile din fundal.
